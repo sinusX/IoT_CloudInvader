@@ -1,0 +1,7 @@
+pygame
+azure-iot-device
+azure-eventhub
+azure-eventhub-checkpointstoreblob-aio
+azure-iot-hub
+pynput
+keyboard
